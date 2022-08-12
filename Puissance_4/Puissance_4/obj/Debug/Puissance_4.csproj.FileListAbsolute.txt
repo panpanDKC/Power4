@@ -1,0 +1,7 @@
+C:\Users\clery\RiderProjects\Puissance_4\Puissance_4\bin\Debug\Puissance_4.exe
+C:\Users\clery\RiderProjects\Puissance_4\Puissance_4\bin\Debug\Puissance_4.pdb
+C:\Users\clery\RiderProjects\Puissance_4\Puissance_4\obj\Debug\Puissance_4.csproj.AssemblyReference.cache
+C:\Users\clery\RiderProjects\Puissance_4\Puissance_4\obj\Debug\Puissance_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\clery\RiderProjects\Puissance_4\Puissance_4\obj\Debug\Puissance_4.csproj.CoreCompileInputs.cache
+C:\Users\clery\RiderProjects\Puissance_4\Puissance_4\obj\Debug\Puissance_4.exe
+C:\Users\clery\RiderProjects\Puissance_4\Puissance_4\obj\Debug\Puissance_4.pdb
